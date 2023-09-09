@@ -1,0 +1,17 @@
+name: timv
+version: '0.8'
+main: cz.vitekform.timv.Timv
+api-version: '1.19'
+commands:
+  start_timv:
+    description: "Starts the TIMV"
+  murderwin:
+    description: "When murders win"
+  innocentwin:
+    description: "When innocents win"
+  murder:
+    descripton: "Instantly makes you murder"
+  detective:
+    description: "Instantly makes you detective"
+  gimmetoken:
+    description: "Gives you number of tokens"
