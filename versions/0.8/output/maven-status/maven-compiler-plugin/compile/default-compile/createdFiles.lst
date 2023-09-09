@@ -1,0 +1,16 @@
+cz\vitekform\timv\cmds\gimmedetective.class
+cz\vitekform\timv\data\PJoinDataCreate.class
+cz\vitekform\timv\listener\game_end_murder.class
+cz\vitekform\timv\karma\PlayerKillEvent.class
+cz\vitekform\timv\cmds\innocentwin.class
+cz\vitekform\timv\cmds\gimmemurder.class
+cz\vitekform\timv\data\PData.class
+cz\vitekform\timv\listener\dead_is_silent.class
+cz\vitekform\timv\Timv.class
+cz\vitekform\timv\data\PlayerUtil.class
+cz\vitekform\timv\cmds\gamestart.class
+cz\vitekform\timv\listener\chest_loot.class
+cz\vitekform\timv\listener\game_end_innocent.class
+cz\vitekform\timv\scoreboard\scoreboard.class
+cz\vitekform\timv\cmds\gimmetoken.class
+cz\vitekform\timv\cmds\murderwin.class
